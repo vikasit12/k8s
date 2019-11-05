@@ -1,2 +1,2 @@
-# k8s
-Hands on for k8s
+# Kubernetes
+Hands on for different objects of kubernetes
